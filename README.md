@@ -13,9 +13,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/Udit004/DSA_leetCode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Udit004/DSA_leetCode/tree/main/0018-4sum/) | Medium |
+| [0061-rotate-list](https://github.com/Udit004/DSA_leetCode/tree/main/0061-rotate-list/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Udit004/DSA_leetCode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Udit004/DSA_leetCode/tree/main/0018-4sum/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/Udit004/DSA_leetCode/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
