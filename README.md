@@ -29,8 +29,26 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Udit004/DSA_leetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0187-repeated-dna-sequences](https://github.com/Udit004/DSA_leetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Udit004/DSA_leetCode/tree/main/0001-two-sum/) | Easy |
+| [0187-repeated-dna-sequences](https://github.com/Udit004/DSA_leetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Udit004/DSA_leetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Udit004/DSA_leetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Udit004/DSA_leetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Udit004/DSA_leetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
 <!---LeetCode Topics End-->
