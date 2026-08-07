@@ -8,12 +8,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Udit004/DSA_leetCode/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Udit004/DSA_leetCode/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Udit004/DSA_leetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Udit004/DSA_leetCode/tree/main/0018-4sum/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Udit004/DSA_leetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Udit004/DSA_leetCode/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Udit004/DSA_leetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Udit004/DSA_leetCode/tree/main/0018-4sum/) | Medium |
 | [0061-rotate-list](https://github.com/Udit004/DSA_leetCode/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/Udit004/DSA_leetCode/tree/main/0125-valid-palindrome/) | Easy |
@@ -21,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Udit004/DSA_leetCode/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Udit004/DSA_leetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Udit004/DSA_leetCode/tree/main/0018-4sum/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
