@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/Udit004/DSA_leetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Udit004/DSA_leetCode/tree/main/0018-4sum/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Udit004/DSA_leetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Udit004/DSA_leetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Udit004/DSA_leetCode/tree/main/0001-two-sum/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/Udit004/DSA_leetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Udit004/DSA_leetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Udit004/DSA_leetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Udit004/DSA_leetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Udit004/DSA_leetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
