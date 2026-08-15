@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Udit004/DSA_leetCode/tree/main/0018-4sum/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Udit004/DSA_leetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Udit004/DSA_leetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Udit004/DSA_leetCode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Udit004/DSA_leetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Udit004/DSA_leetCode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
