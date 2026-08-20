@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Udit004/DSA_leetCode/tree/main/0018-4sum/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Udit004/DSA_leetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Udit004/DSA_leetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Udit004/DSA_leetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Udit004/DSA_leetCode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -95,4 +96,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1683-invalid-tweets](https://github.com/Udit004/DSA_leetCode/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Udit004/DSA_leetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1934-confirmation-rate](https://github.com/Udit004/DSA_leetCode/tree/main/1934-confirmation-rate/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Udit004/DSA_leetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 <!---LeetCode Topics End-->
