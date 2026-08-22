@@ -1,32 +1,27 @@
 class Solution {
-    static int findTotal(int n) {
-
+    int findTotal(int n) {
         int sum = 0;
-        int prod = 1;
+        int product = 1;
 
-        while (n > 0) {
-
-            int num = n % 10;
+        while(n>0) {
+            int num = n%10;
             sum += num;
-            prod *= num;
+            product *= num;
             n /= 10;
         }
-        int total = sum + prod;
 
-        return total;
+        return product + sum;
     }
     public boolean checkDivisibility(int n) {
-
-        if (n == 0) {
+        if(n == 0) {
             return true;
         }
 
-        int res = findTotal(n);
+        int total = findTotal(n);
 
-        if (n % res == 0) {
+        if(n % total == 0) {
             return true;
         }
-        
         return false;
     }
 }
