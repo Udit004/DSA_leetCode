@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Udit004/DSA_leetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Udit004/DSA_leetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
